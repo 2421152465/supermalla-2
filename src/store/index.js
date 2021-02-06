@@ -3,8 +3,9 @@ import Vuex from 'vuex'
 
 Vue.use(Vuex)
 
-export default new Vuex.Store({
+const store=new Vuex.Store({
   state: {
+    mages:99
   },
   mutations: {
   },
@@ -13,3 +14,4 @@ export default new Vuex.Store({
   modules: {
   }
 })
+export default store
