@@ -1,5 +1,5 @@
 # supermalla-2
-
+#练习的项目没有做完 在哔哩哔哩上vue 的项目
 ## Project setup
 ```
 npm install
